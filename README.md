@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-T-shirt Shopping Mall is a web application designed with React and backed by MongoDB. I worked on this project to practice full stack web app development. T-shirt Shopping Mall lets users to conveniently check product details, add products to shopping cart, and check out the products in the cart. Also, the admin page of the app lets administrators to access processed order information stored in database. 
+Book Collection Management Google Assistant Application is implemented with Java Spring Boot and backed by a MySql database. I worked on this project since I love books and thought an application to read short summaries of books would be useful. Book Collection Management lets users to search for books by publication year, title, and author. A user can also retrieve details and short summaries of a specific book of their choice. 
 
 ## Project Demo
 
